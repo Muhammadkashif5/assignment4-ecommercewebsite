@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import logo from "@/app/assets/company-name-logo.png";
-import Social from "@/app/assets/Social-contact.png";
+import Social from "@/app/assets/social-contact.png";
 import payment from "@/app/assets/card-option.png";
 
 const Footer = () => {
